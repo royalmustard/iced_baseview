@@ -37,7 +37,7 @@ debug = ["iced_native/debug"]
 # wgpu_canvas = ["iced_wgpu/canvas"]
 # Enables the `Canvas` widget for the `glow` backend
 glow_canvas = ["iced_glow/canvas"]
-
+glow_image = ["iced_glow/image"]
 # # Enables the `QRCode` widget for the `wgpu` backend
 # wgpu_qr_code = ["iced_wgpu/qr_code"]
 # Enables the `QRCode` widget for the `glow` backend
